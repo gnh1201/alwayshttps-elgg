@@ -1,5 +1,5 @@
 # alwayshttps-elgg
-AlwaysHTTPS for Elgg 2.x, 3.x
+AlwaysHTTPS.js for Elgg 2.x, 3.x
 
 ## What is this?
 AlwaysHTTPS.js keeps your web site's HTTPS connection up at all times.
